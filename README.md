@@ -1,8 +1,9 @@
 # hoverScrolls
 
-**Live Demo Link**
+**Demo Link**
 
-[hoverscrolls](https://hoverscrolls.netlify.app/)
+[hoverscrolls](https://m-ims.github.io/hoverScrolls/)
 
+https://m-ims.github.io/hoverScrolls/
 https://hoverscrolls.netlify.app/
 
